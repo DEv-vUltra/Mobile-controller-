@@ -1,0 +1,9 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cboot,AVX,08055C103KAT2A,1,0.01,6.75,Cap: 10 nF  Total Derated Cap: 10 nF  VDC: 50 V  ESR: 78 mΩ  Package: 0805  
+Cin,MuRata,GRM31CR71H475KA12L,2,0.1,10.92,Cap: 4.7 µF  Total Derated Cap: 5.2 µF  VDC: 50 V  ESR: 3 mΩ  Package: 1206  
+D1,Diodes Inc.,B540C-13-F,1,0.19,83.27,Type: Schottky  VRRM: 40 V  Io: 5 A  
+L1,Vishay-Dale,IHLP4040DZER220M11,1,0.72,166.05,L: 22 µH  DCR: 66 mΩ  IDC: 4.5 A  
+Rfbb,Vishay-Dale,CRCW04023K24FKED,1,0.01,3,Resistance: 3.24 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfbt,Yageo,RC0201FR-0710KL,1,0.01,2.08,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 50 mW  
+U1,Texas Instruments,TPS5430DDAR,1,1.745,55.2,
+Cout,Panasonic,6TPB330MAL,1,0.69,58.59,Cap: 330 µF  Total Derated Cap: 330 µF  VDC: 6.3 V  ESR: 40 mΩ  Package: 7343-30  

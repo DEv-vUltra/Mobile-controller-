@@ -1,0 +1,62 @@
+PCB statistics report
+=====================
+- Date: 10/20/2026 3:43:46 PM
+- Project: Mobile_controller
+- Board name: Mobile_controller
+
+Board
+-----
+- Width: 107.0000 mm
+- Height: 84.0000 mm
+- Area: 8984.557 mm²
+- Front copper area: 3404.621 mm²
+- Back copper area: 1195.011 mm²
+- Min track clearance: 0.1500 mm
+- Min track width: 0.2000 mm
+- Min drill diameter: 0.3000 mm
+- Board stackup thickness: 1.6700 mm
+
+- Front footprint area: 3674.42 mm²
+- Back footprint area: 275.853 mm²
+- Front component density: 40.90 %
+- Back component density: 3.07 %
+Pads
+----
+- Through hole: 68
+- SMD: 457
+- Connector: 0
+- NPTH: 2
+- Castellated: 0
+- Press-fit: 0
+
+Vias
+----
+- Through vias: 490
+- Blind vias: 0
+- Buried vias: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          4 |         0 |     4 |
+|SMD:          |        119 |         2 |   121 |
+|Unspecified:  |          4 |         0 |     4 |
+|Total:        |        127 |         2 |   129 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|   490 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    32 | Round | 0.5000 mm | 0.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    12 | Round | 0.3300 mm | 0.3300 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     8 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     6 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1.6000 mm | 1.6000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 3.2000 mm | 3.2000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 0.6500 mm | 0.6500 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     2 | Round | 4.5000 mm | 4.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |

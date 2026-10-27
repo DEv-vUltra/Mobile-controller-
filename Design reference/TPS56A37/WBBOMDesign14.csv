@@ -1,0 +1,17 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cb_inpflt,Panasonic,EEHZA1V270P,1,0.6631,79.98,Cap: 27 µF  Total Derated Cap: 27 µF  VDC: 35 V  ESR: 60 mΩ  Package: 6.3x5.8  
+Cf_inpflt,Panasonic,35SVPF22M,2,0.57,73.96,Cap: 22 µF  Total Derated Cap: 44 µF  VDC: 35 V  ESR: 35 mΩ  Package: 6.3x6  
+Rd_inpflt,Panasonic,ERJ-3RSFR10V,1,0.03,4.68,Resistance: 100 mΩ  Tolerance: 1.0%  Power: 100 mW  
+Lf_inpflt,TDK,VLP8040T-2R2N,1,0.22,113.42,L: 2.2 µH  DCR: 15 mΩ  IDC: 6.7 A  
+Cff,AVX,06033A300FAT2A,1,0.1,4.68,Cap: 30 pF  Total Derated Cap: 30 pF  VDC: 25 V  ESR: 0 Ω  Package: 0603  
+Rfbb,Vishay-Dale,CRCW040220K0FKED,1,0.01,3,Resistance: 20 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfbt,Panasonic,ERJ-6ENF3833V,1,0.01,6.75,Resistance: 383 kΩ  Tolerance: 1.0%  Power: 125 mW  
+Rmode,Vishay-Dale,CRCW040252K3FKED,1,0.01,3,Resistance: 52.3 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Css,MuRata,GRM155R71C223KA01D,1,0.01,3,Cap: 22 nF  Total Derated Cap: 22 nF  VDC: 16 V  ESR: 1 mΩ  Package: 0402  
+Cin,Taiyo Yuden,MSASU32MSB5106KPNA01,2,0.16148,14.7,Cap: 10 µF  Total Derated Cap: 7.6 µF  VDC: 50 V  ESR: 3.98 mΩ  Package: 1210  
+Cout,TDK,C4532X5R1E156M280KA,2,0.41,23.1,Cap: 15 µF  Total Derated Cap: 16 µF  VDC: 25 V  ESR: 2.49 mΩ  Package: 1812_320  
+L1,Coilcraft,XAL6060-562MEB,1,0.82,71.56,L: 5.6 µH  DCR: 14.5 mΩ  IDC: 9.9 A  
+Cboot,Taiyo Yuden,EMK107B7104KA-T,1,0.01,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 16 V  ESR: 1 mΩ  Package: 0603  
+Cinx,Yageo,CC0805KRX7R9BB104,1,0.02,6.75,Cap: 100 nF  Total Derated Cap: 86 nF  VDC: 50 V  ESR: 1 mΩ  Package: 0805  
+U1,Texas Instruments,TPS56A37RPAR,1,1.111,16,
+Rpg,Vishay-Dale,CRCW0402100KFKED,1,0.01,3,Resistance: 100 kΩ  Tolerance: 1.0%  Power: 63 mW  
