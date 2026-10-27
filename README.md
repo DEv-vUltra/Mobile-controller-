@@ -89,6 +89,3 @@ Battery ──► Fuse ──► Reverse-polarity Schottky ──► VIN
 ## Author
 
 Tran Ngon Quang Vu — [github.com/DEv-vUltra](https://github.com/DEv-vUltra)
-
-
-_TODO: choose a license for hardware (for example CERN-OHL-P or CERN-OHL-S) and software (for example MIT or Apache-2.0)._
